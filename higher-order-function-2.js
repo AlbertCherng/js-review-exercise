@@ -5,4 +5,4 @@ function multiply(x) {
 }
 
 
-console.log(multiply(4)(6)); // 24
+(multiply(4)(6)); // 24
